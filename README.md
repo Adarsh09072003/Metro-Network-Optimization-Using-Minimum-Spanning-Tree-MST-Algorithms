@@ -30,8 +30,9 @@ Interactive plots
 
 
 
-Sample Output
-textPRIM’S MST RESULTS
+Sample Output:
+
+PRIM’S MST RESULTS
 Execution Time: 0.0021 s
 Total Path Cost: 45.32 km
 Traversal Path:
