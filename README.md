@@ -22,19 +22,6 @@ A **Minimum Spanning Tree (MST)**-based approach to optimize the **Metro network
 
 ---
 
-## Project Structure
-.
-├── DelhiMetro.csv              # Station data
-├── whole_map.py                # Full network visualization
-├── main.py                     # MST + Pathfinding + Interactive CLI
-├── Metro_MST_CaseStudy.pptx    # Presentation & analysis
-├── image1.png to image5.png    # Output visualizations
-└── README.md
-
-
-Enter station names (case-insensitive) when prompted:textEnter START station: Kashmere Gate
-Enter END station: Dwarka
-
 View:
 MST construction
 Shortest path in MST
