@@ -1,0 +1,31 @@
+ID (Station ID),Station Names,Dist. From First Station(km),Metro Line,Opened(Year),Layout,Latitude,Longitude
+1,Shaheed Sthal,0,Red line,8/3/2019,Elevated,28.6706109,77.4155822
+2,Hindon River,23.2,Red line,8/3/2019,Elevated,28.878965,77.4154832
+3,Arthala,2.4,Red line,8/3/2019,Elevated,28.676999,77.3918919
+4,Mohan Nagar,31,Red line,8/3/2019,Elevated,28.606319,77.1060818
+5,Shyam Park,5.3,Red line,8/3/2019,Elevated,28.6988072,77.3718072
+6,Major Mohit Sharma,5.7,Red line,8/3/2019,Elevated,28.6776112,77.3581426
+7,Raj Bagh,20.4,Red line,8/3/2019,Elevated,28.6408602,77.2094999
+8,Shaheed Nagar,25.2,Red line,8/3/2019,Elevated,28.5307795,77.2120573
+9,Dilshad Garden,9.2,Red line,4/6/2008,Elevated,28.67592,77.32142
+10,Jhil Mil,10.1,Red line,4/6/2008,Elevated,28.67579,77.31239
+11,Kashmere Gate,18.3,Yellow line,20-12-2004,Underground,28.6675,77.22817
+12,Chandni Chowk,18.2,Yellow line,3/7/2003,Underground,28.6578,77.2297
+13,Chawri Bazar,18.6,Yellow line,3/7/2003,Underground,28.6496,77.2265
+14,New Delhi,19.2,Yellow line,3/7/2003,Underground,28.6439,77.2211
+15,Rajiv Chowk,19.6,Yellow line,3/7/2003,Underground,28.6328,77.2197
+16,Patel Chowk,20.4,Yellow line,3/7/2003,Underground,28.6231,77.2138
+17,Central Secretariat,20.9,Yellow line,3/7/2003,Underground,28.6147,77.2111
+18,Udyog Bhawan,20.9,Yellow line,3/7/2003,Underground,28.6092,77.2133
+19,Lok Kalyan Marg,21.5,Yellow line,3/7/2003,Underground,28.6003,77.2103
+20,Jor Bagh,21.9,Yellow line,3/7/2003,Underground,28.5856,77.2128
+21,Dwarka Sector 21,37.3,Blue line,30/10/2010,Elevated,28.5533,77.0578
+22,Dwarka,38.8,Blue line,1/4/2006,Elevated,28.6152,77.0228
+23,Dwarka Mor,37.7,Blue line,1/4/2006,Elevated,28.6193,77.0333
+24,Nawada,36.7,Blue line,1/4/2006,Elevated,28.6203,77.0444
+25,Uttam Nagar West,35.4,Blue line,1/4/2006,Elevated,28.6228,77.0569
+26,Uttam Nagar East,34.4,Blue line,1/4/2006,Elevated,28.6247,77.0667
+27,Janakpuri West,33.3,Blue line,1/4/2006,Elevated,28.6292,77.0778
+28,Janakpuri East,32.4,Blue line,1/4/2006,Elevated,28.6328,77.0861
+29,Tilak Nagar,31.3,Blue line,1/4/2006,Elevated,28.6367,77.0967
+30,Subhash Nagar,30.4,Blue line,1/4/2006,Elevated,28.6403,77.1056
