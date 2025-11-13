@@ -51,15 +51,20 @@ Total Path Cost: 48.91 km
 Key Findings:
 
 Both algorithms produce a valid MST
+
 Prim’s often gives shorter user paths (better for passengers)
+
 Kruskal’s is slightly faster on small datasets
+
 Total MST cost: ~150–160 km (minimum infrastructure)
 
 
 Future Scope:
 
 Hybrid Prim-Kruskal algorithm
+
 Multi-objective optimization (cost, demand, land price)
+
 Real-time route suggestions with live data
 
 
@@ -67,5 +72,6 @@ References:
 
 Kim, H.-C. et al. (2017). Schematic Transit Network Design using Minimum Spanning Tree Algorithm. Journal of the Eastern Asia Society for Transportation Studies.
 https://doi.org/10.11175/easts.12.1299
+
 Zeng, X. et al. (2019). An Improved Prim Algorithm for Connection Scheme of Last Train in Urban Mass Transit Network. Symmetry.
 https://doi.org/10.3390/sym11050681
